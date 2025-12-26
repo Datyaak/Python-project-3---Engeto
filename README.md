@@ -16,7 +16,7 @@ Výstupní CSV obsahuje:
 
 ## Požadavky
 
-Projekt je napsán v jazyce **Python 3.10+**.
+Projekt je napsán v jazyce **Python 3.13**.
 
 Seznam použitých knihoven je uložen v souboru `requirements.txt`.
 
