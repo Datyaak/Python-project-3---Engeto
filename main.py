@@ -1,3 +1,10 @@
+"""
+main.py: třetí projekt do Engeto Online Python Akademie
+
+author: Adam Pončík
+email: adam.poncik47@gmail.com
+"""
+
 import requests
 import csv
 import sys
@@ -156,4 +163,5 @@ def main() -> None:
 
 
 if __name__ == "__main__":
+
     main()
